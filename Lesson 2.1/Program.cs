@@ -1,5 +1,7 @@
 ﻿using System;
 
+// https://app.codility.com/demo/results/trainingZZN935-8XF/
+
 namespace Lesson_2_1
 {
     class Program

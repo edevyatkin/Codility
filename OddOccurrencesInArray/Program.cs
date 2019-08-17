@@ -2,7 +2,7 @@
 
 // https://app.codility.com/demo/results/trainingKDMG7H-ZNP/
 
-namespace Lesson_2_2
+namespace OddOccurrencesInArray
 {
     class Program
     {

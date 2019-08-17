@@ -3,7 +3,7 @@ using System.Linq;
 
 // https://app.codility.com/demo/results/trainingDP3K3Z-J2D/
 
-namespace Lesson_1
+namespace BinaryGap
 {
     class Program
     {

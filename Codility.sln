@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 1", "Lesson 1\Lesson 1.csproj", "{54CE3E48-4F01-49A7-BCF0-5BB1680E98DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 1 - BinaryGap", "BinaryGap\Lesson 1 - BinaryGap.csproj", "{54CE3E48-4F01-49A7-BCF0-5BB1680E98DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 2.1", "Lesson 2.1\Lesson 2.1.csproj", "{189ADF8B-3BBC-48A7-BC8C-5A8E70A38976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 2.2 - CyclicRotation", "CyclicRotation\Lesson 2.2 - CyclicRotation.csproj", "{189ADF8B-3BBC-48A7-BC8C-5A8E70A38976}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 2.2", "Lesson 2.2\Lesson 2.2.csproj", "{7B858A48-A553-42DE-B63F-E17BCC8DE84A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 2.1 - OddOccurrencesInArray", "OddOccurrencesInArray\Lesson 2.1 - OddOccurrencesInArray.csproj", "{7B858A48-A553-42DE-B63F-E17BCC8DE84A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 3.1 - FrogJmp", "FrogJmp\Lesson 3.1 - FrogJmp.csproj", "{E7673DEC-C0B2-400D-8E92-650B9B6FD50A}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 4.4 - MissingInteger", "MissingInteger\Lesson 4.4 - MissingInteger.csproj", "{F6CBD206-F219-4E8E-A873-5E8CD2D034BD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 5.1 - PassingCars", "PassingCars\Lesson 5.1 - PassingCars.csproj", "{F0C6C1D5-5004-4D28-894B-42075EAD637D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 5.2 - GenomicRangeQuery", "GenomicRangeQuery\Lesson 5.2 - GenomicRangeQuery.csproj", "{B3E612AF-F95C-4C78-B2C4-218A9DBBA909}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F0C6C1D5-5004-4D28-894B-42075EAD637D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0C6C1D5-5004-4D28-894B-42075EAD637D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0C6C1D5-5004-4D28-894B-42075EAD637D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E612AF-F95C-4C78-B2C4-218A9DBBA909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E612AF-F95C-4C78-B2C4-218A9DBBA909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E612AF-F95C-4C78-B2C4-218A9DBBA909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E612AF-F95C-4C78-B2C4-218A9DBBA909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
